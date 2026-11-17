@@ -1,2 +1,2 @@
 name = input("Mi a neved? ")
-print("Hello 222222", name)
+print("Hello 5555555", name)
